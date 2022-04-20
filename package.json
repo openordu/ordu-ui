@@ -8,7 +8,7 @@
     "vuepress": "^2.0.0-beta.39",
     "vuepress-theme-hope": "^2.0.0-beta.45"
   },
-  "dependencies": {
+  "peerDependencies": {
     "vuepress": "^2.0.0-beta.39",
     "vuepress-theme-hope": "^2.0.0-beta.45"
   },
