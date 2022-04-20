@@ -14,7 +14,7 @@ RUN npm install -g vuepress@next
 WORKDIR /app
 
 # copy both 'package.json' and 'package-lock.json' (if available)
-COPY src/package*.json ./
+COPY package*.json ./
 
 # install project dependencies
 RUN npm install
