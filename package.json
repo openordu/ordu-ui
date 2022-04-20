@@ -8,6 +8,10 @@
     "vuepress": "^2.0.0-beta.39",
     "vuepress-theme-hope": "^2.0.0-beta.45"
   },
+  "peerDependencies": {
+    "vuepress": "^2.0.0-beta.39",
+    "vuepress-theme-hope": "^2.0.0-beta.45"
+  },
   "scripts": {
     "docs:dev": "vuepress dev src",
     "docs:build": "vuepress build src"
