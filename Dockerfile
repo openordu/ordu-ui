@@ -8,7 +8,7 @@ ENV BUILDNO=${BUILDNO}
 # install simple http server for serving static content
 RUN npm install -g http-server
 
-RUN npm install -g vuepress
+RUN npm install -g vuepress@next
 
 # make the 'app' folder the current working directory
 WORKDIR /app
@@ -29,4 +29,4 @@ RUN printf -- "BRANCH=${BRANCH}\n" >> .env
 RUN printf -- "BUILDNO=${BUILDNO}\n" >> .env
 
 EXPOSE 8080
-CMD [ "http-server", "dist" ]
+CMD [ "http-server", ".vuepress/dist" ]
