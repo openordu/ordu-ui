@@ -1,6 +1,0 @@
----
-title: bard, shape-shifting by 
-showinsidebar: true 
-article: false 
-icon: article 
----
