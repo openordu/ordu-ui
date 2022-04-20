@@ -5,6 +5,7 @@ ENV BRANCH=${BRANCH}
 ARG BUILDNO
 ENV BUILDNO=${BUILDNO}
 ENV NODE_ENV=production
+ENV NODE_OPTIONS=--openssl-legacy-provider
 
 # install simple http server for serving static content
 RUN npm install -g http-server
@@ -21,7 +22,7 @@ RUN npm install
 COPY . .
 
 # build app for production with minification
-RUN NODE_OPTIONS=--openssl-legacy-provider ./node_modules/.bin/vuepress build src
+RUN ./node_modules/.bin/vuepress build src
 
 RUN printf -- "BRANCH=${BRANCH}\n" >> .env
 RUN printf -- "BUILDNO=${BUILDNO}\n" >> .env
