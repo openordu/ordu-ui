@@ -14,7 +14,7 @@ RUN npm install -g vuepress@next
 WORKDIR /app
 
 # copy both 'package.json' and 'package-lock.json' (if available)
-COPY package*.json ./
+COPY src/package*.json ./
 
 # install project dependencies
 RUN npm install
@@ -23,10 +23,10 @@ RUN npm install
 COPY . .
 
 # build app for production with minification
-RUN NODE_OPTIONS=--openssl-legacy-provider vuepress build .
+RUN NODE_OPTIONS=--openssl-legacy-provider vuepress build src
 
 RUN printf -- "BRANCH=${BRANCH}\n" >> .env
 RUN printf -- "BUILDNO=${BUILDNO}\n" >> .env
 
 EXPOSE 8080
-CMD [ "http-server", ".vuepress/dist" ]
+CMD [ "http-server", "src/.vuepress/dist" ]
