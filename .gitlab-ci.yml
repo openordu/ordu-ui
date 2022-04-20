@@ -17,7 +17,7 @@ build:
 deploy_intg:
   stage: deploy
   image:
-    google/cloud-sdk
+    google/cloud-sdk:alpine
   # services:
   #   - docker:dind
   script:
