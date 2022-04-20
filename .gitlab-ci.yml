@@ -1,0 +1,44 @@
+---
+stages:
+  - build
+  - deploy
+
+build:
+  stage: build
+  image:
+    name: gcr.io/kaniko-project/executor:debug
+    entrypoint: [""]
+  script:
+    - echo "${KANIKOCONF}" | base64 -d > /kaniko/.docker/config.json
+    - /kaniko/executor --build-arg "BUILDNO='${CI_JOB_ID}'" --build-arg "BRANCH='${CI_COMMIT_BRANCH}'" --context $CI_PROJECT_DIR --dockerfile $CI_PROJECT_DIR/Dockerfile --destination us-central1-docker.pkg.dev/cgodwin-io/vuepress/cporg-web:devel-build-${CI_JOB_ID} --destination us-central1-docker.pkg.dev/cgodwin-io/vuepress/cporg-web:${CI_COMMIT_BRANCH}-build-latest
+  only:
+    - branches
+
+deploy_intg:
+  stage: deploy
+  image:
+    google/cloud-sdk
+  # services:
+  #   - docker:dind
+  script:
+    - echo $GCP_SERVICE_KEY | base64 -d > gcloud-service-key.json # Google Cloud service accounts
+    - gcloud auth activate-service-account --key-file gcloud-service-key.json
+    - gcloud config set project $GCP_PROJECT_ID
+    - gcloud run deploy cporg-web-${CI_COMMIT_BRANCH} --image=us-central1-docker.pkg.dev/cgodwin-io/vuepress/cporg-web:${CI_COMMIT_BRANCH}-build-latest --region=${GCP_PROJECT_REGION} --platform=managed --allow-unauthenticated --ingress=all --max-instances=1 --min-instances=0 --memory=128Mi --cpu-throttling
+  only:
+    - branches
+
+deploy_prod:
+  stage: deploy
+  image:
+    google/cloud-sdk
+  # services:
+  #   - docker:dind
+  script:
+    - echo $GCP_SERVICE_KEY | base64 -d > gcloud-service-key.json # Google Cloud service accounts
+    - gcloud auth activate-service-account --key-file gcloud-service-key.json
+    - gcloud config set project $GCP_PROJECT_ID
+    - gcloud run deploy cporg-web --image=us-central1-docker.pkg.dev/cgodwin-io/vuepress/cporg-web:devel-build-latest --region=${GCP_PROJECT_REGION} --platform=managed --allow-unauthenticated --ingress=all --max-instances=1 --min-instances=0 --memory=128M --cpu-throttling
+  only:
+    - tags
+    - ^(?!main)

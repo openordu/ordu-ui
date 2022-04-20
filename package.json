@@ -1,0 +1,15 @@
+{
+  "name": "ordu-ui",
+  "version": "2.0.0",
+  "repository": "git@github.com:openordu/ordu-ui.git",
+  "author": "Chris Godwin <patchshorts@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.39",
+    "vuepress-theme-hope": "^2.0.0-beta.45"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev src",
+    "docs:build": "vuepress build src"
+  }
+}
