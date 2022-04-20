@@ -71,8 +71,6 @@ typings/
 .serverless
 
 # PCE Tests
-public-celtic-encyclopedia/test
-pce/test
 
 node_modules/
 src/.vuepress/.cache/
@@ -82,4 +80,3 @@ node_modules
 .temp
 .cache
 openordu-pce
-public-celtic-encyclopedia
