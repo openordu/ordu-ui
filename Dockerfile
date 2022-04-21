@@ -6,6 +6,7 @@ ARG BUILDNO
 ENV BUILDNO=${BUILDNO}
 ENV NODE_ENV=production
 ENV NODE_OPTIONS=--openssl-legacy-provider
+ARG WITHOUT_PCE="false"
 
 # install simple http server for serving static content
 RUN npm install -g http-server
@@ -20,6 +21,8 @@ COPY package*.json ./
 RUN npm install
 # copy project files and folders to the current working directory (i.e. 'app' folder)
 COPY . .
+
+RUN if [ "${WITHOUT_PCE}" = "true" ]; then rm -rf src/public-celtic-encyclopedia;fi  
 
 # build app for production with minification
 RUN ./node_modules/.bin/vuepress build src
