@@ -1,3 +1,4 @@
 [submodule "src/public-celtic-encyclopedia"]
 	path = src/public-celtic-encyclopedia
 	url = https://github.com/openordu/pce.git
+	branch = devel
