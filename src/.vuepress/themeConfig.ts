@@ -71,32 +71,11 @@ export default defineThemeConfig({
         intro: "/intro.html",
       },
     },
-
-    /**
-     * Chinese locale config
-     */
-    "/zh/": {
-      // navbar
-      navbar: navbar.zh,
-
-      // sidebar
-      sidebar: sidebar.zh,
-
-      footer: "默认页脚",
-
-      displayFooter: true,
-
-      blog: {
-        description: "一个前端开发者",
-        intro: "/zh/intro.html",
-      },
-    },
   },
 
   encrypt: {
     config: {
       "/guide/encrypt.html": ["1234"],
-      "/zh/guide/encrypt.html": ["1234"],
     },
   },
 
