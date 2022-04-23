@@ -1,3 +1,7 @@
+---
+article: false
+icon: 
+---
 ```Celtic Culture Attribution-ShareAlike 1.0 International Public
 License
 

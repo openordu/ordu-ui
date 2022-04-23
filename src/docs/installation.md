@@ -6,6 +6,7 @@ tag:
   - Introduction
   - Documentation
 index: 99
+article: false
 ---
 
 ## Installation
