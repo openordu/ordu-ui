@@ -5,7 +5,6 @@ title: Vision
 tag: vision
 time: 2022-01-07
 copyright:
-  minLength: 1
 ---
 # Vision
 

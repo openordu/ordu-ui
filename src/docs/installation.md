@@ -1,19 +1,16 @@
 ---
-showinsidebar: true
 icon: git
-title: 'Git Installation'
+title: Git Installation
 time: 2022-12-27
 tag:
   - Introduction
   - Documentation
-article: false
-autoSort: 99
+index: 99
 ---
 
 ## Installation
 
-This is the documentation portal for the project. Read the entire documentation
- section before asking any questions about contributing.
+This is the documentation portal for the project. Read the entire documentation section before asking any questions about contributing.
 
 ## Everything is Done with `git`
 
@@ -30,12 +27,11 @@ If you are a user of linux, we'll assume you know how to use the basic git comma
 If you are not familiar with git, you must learn to interact with this project.
 
 The [Process](/article/myidea/#the-process) itself is a graphical representation of `git` commands and interactions with repo [website](/).
- Everything happens via `git` except for the discussion, approval, and merge.
+
+Everything happens via `git` except for the discussion, approval, and merge.
 
 ::: tip
-
 All of this is easier to do in [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) or even [Cygwin](https://www.cygwin.com/). If you know how, you should use those options instead.
-
 :::
 
 ## Installing Gitforwindows
@@ -44,11 +40,9 @@ All of this is easier to do in [WSL](https://docs.microsoft.com/en-us/windows/ws
 1. Check the box that says `Launch Git Bash` on the final screen and press `Finish`.
 1. Type `git version` and you should see something like what is below:
 
-<CodeGroupItem title="git version" active>
 ```bash
 git version
 ```
-</CodeGroupItem>
 
 Result:
 
@@ -56,11 +50,9 @@ Result:
 
 Now you are ready to roll. Run `pwd` in order to see where you are.
 
-<CodeGroupItem title="pwd" active>
 ```bash
 pwd
 ```
-</CodeGroupItem>
 
 Result:
 
@@ -74,24 +66,19 @@ Result:
 1. Run the following Set-ExecutionPolicy Bypass -Scope Process -Force;
 1. Run .\ChocolateyInstallNonAdmin.ps1.
 
-<CodeGroupItem title="chocoinstall" active>
-
 ```bash
 $InstallDir='C:\ProgramData\chocoportable'
 $env:ChocolateyInstall="$InstallDir"
 Set-ExecutionPolicy Bypass -Scope Process -Force;
 iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 ```
-</CodeGroupItem>
 
-<CodeGroupItem title="chocoinstallgit" active>
 ```
 choco install git.commandline -y
  Do you want to continue?([Y]es/[N]o): Y
 
 git version
 ```
-</CodeGroupItem>
 
 Result:
 
