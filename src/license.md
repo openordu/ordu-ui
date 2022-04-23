@@ -1,6 +1,9 @@
 ---
 article: false
-icon: 
+icon: license
+title: Celtic Culture Attribution-ShareAlike 1.0 International Public
+License
+index: false
 ---
 ```Celtic Culture Attribution-ShareAlike 1.0 International Public
 License

@@ -1,7 +1,7 @@
 ---
 author: Chris Godwin
 category: Planning
-tag: article
+tag: roadmap
 time: 2022-01-14
 copyright:
   minLength: 1
@@ -12,11 +12,14 @@ copyright:
 - [x] Finish Vision
 - [ ] Create a quick start guide
 - [x] Organize navigation based on principles and best practices
-- [ ] Generate md pages automatically per the topography plus the navigation organization conventions
-- [ ] Come up with a solution to include related terms in items
+- [x] Generate md pages automatically
+- [ ] per the topography of topics, add related links to md files
+- [x] Come up with a solution to include related terms in items
+- [ ] Include related terms in md files
 - [ ] Setup search through algoria
-- [ ] Creation a contributions page
+- [ ] Creation a call for contributors page
 - [ ] Create a donation page
 - [ ] Create a vision post and page
-- [ ] Create some sort of rules.
+- [ ] Create some sort of contribution rules.
 - [ ] Create a call to action page for more admins
+- [ ] Launch
