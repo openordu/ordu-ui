@@ -6,7 +6,7 @@ ARG BUILDNO
 ENV BUILDNO=${BUILDNO}
 ENV NODE_ENV=production
 ENV NODE_OPTIONS=--openssl-legacy-provider
-ARG WITHOUT_PCE="false"
+ARG WITHOUT_PCE="true"
 
 # install simple http server for serving static content
 RUN npm install -g http-server
