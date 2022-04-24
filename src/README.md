@@ -2,16 +2,16 @@
 home: true
 icon: home
 sidebar: false
-title: Project home
+title: Celtic Paganism
 heroImage: /logo.svg
 heroText: Project name
-tagline: You can place the description of the project here.
+tagline: A display interface to Openordú.
 actions:
-  - text: How to Use 💡
-    link: /guide/
+  - text: About 💡
+    link: /about.md
 
-  - text: Blog homepage 🏠
-    link: /
+  - text: Blog home 🏠
+    link: /blog.md
     type: secondary
 
 features:
