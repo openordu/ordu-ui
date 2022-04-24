@@ -1,6 +1,8 @@
 ---
 title: Deployment Pipelines
 article: false
+icon: install
+index: false
 ---
 ::: warning Todo
 Remember, these images do not appear for the public yet
