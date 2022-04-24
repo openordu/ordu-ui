@@ -18,7 +18,7 @@ export default defineHopeConfig({
     "/": {
       lang: "en-US",
       title: "Celtic Paganism",
-      description: "An OpenSource Project.",
+      description: "Openordú: An OpenSource Project.",
     },
   },
 
