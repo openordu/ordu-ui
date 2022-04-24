@@ -4,8 +4,8 @@ layout: Blog
 icon: home
 title: Blog Home
 heroImage: /logo.svg
-heroText: the name of your blog
-tagline: You can put your slogan here
+heroText: Openordú Blog
+tagline: A Song Upon A Spear
 heroFullScreen: true
 projects:
   - icon: project
