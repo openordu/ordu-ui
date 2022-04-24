@@ -9,7 +9,7 @@
     "vuepress-theme-hope": "^2.0.0-beta.45"
   },
   "scripts": {
-    "docs:dev": "vuepress dev src",
-    "docs:build": "vuepress build src"
+    "docs:dev": "./node_modules/.bin/vuepress dev src",
+    "docs:build": "./node_modules/.bin/vuepress build src"
   }
 }

@@ -2,7 +2,7 @@
 icon: list
 title: 'Fetching the Content'
 author: 'Christopher Godwin'
-time: 2022-12-28
+date: 2022-12-28
 tag:
   - Introduction
   - Documentation
@@ -20,7 +20,7 @@ Depending on how you installed git, Open bash or git-bash, or powershell.
 
 Run `pwd` to see where you are on the file system.
 
-Run `git clone https://github.com/path/to/project path/to/working_folder`
+Run `git clone https://github.com/openordu/pce.git path/to/working_folder`
 
 Now your working folder will be located at whatever you typed instead of
  `path/to/working_folder` inside of `pwd`. If `pwd` reports 

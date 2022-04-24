@@ -543,7 +543,7 @@ A simple slide demo and useful hints.
 
 <!-- .element: class="r-fit-text" -->
 
-> By Mr.Hope. Please scroll mousewheel down to the next slide
+> This is a slide. Please scroll mousewheel down to the next slide
 
 ---
 
@@ -571,7 +571,7 @@ A simple slide demo and useful hints.
 
 <!-- .element: class="r-fit-text" -->
 
-> By Mr.Hope. Please scroll mousewheel down to the next slide
+> This is a slide. Please scroll mousewheel down to the next slide
 
 ---
 
