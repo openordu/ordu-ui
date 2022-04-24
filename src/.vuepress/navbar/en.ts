@@ -9,9 +9,9 @@ export const en = defineNavbarConfig([
     icon: "edit",
     prefix: "/posts/",
   },
-  {
-    text: "Theme Docs",
-    icon: "note",
-    link: "https://vuepress-theme-hope.github.io/v2/",
-  },
+  // {
+  //   text: "Theme Docs",
+  //   icon: "note",
+  //   link: "https://vuepress-theme-hope.github.io/v2/",
+  // },
 ]);

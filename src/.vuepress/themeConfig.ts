@@ -3,7 +3,7 @@ import * as navbar from "./navbar";
 import * as sidebar from "./sidebar";
 
 export default defineThemeConfig({
-  hostname: "https://vuepress-theme-hope-v2-demo.mrhope.site",
+  hostname: "https://devel.celticpaganism.org",
 
   author: {
     name: "Openordú",
@@ -14,7 +14,7 @@ export default defineThemeConfig({
 
   logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "openordu/ordu-ui",
 
   docsDir: "demo/src",
 
