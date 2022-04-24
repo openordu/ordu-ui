@@ -16,7 +16,7 @@ export default defineThemeConfig({
 
   repo: "openordu/ordu-ui",
 
-  docsDir: "demo/src",
+  docsDir: "src",
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
