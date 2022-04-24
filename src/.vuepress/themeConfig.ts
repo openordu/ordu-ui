@@ -7,7 +7,7 @@ export default defineThemeConfig({
 
   author: {
     name: "Openordú",
-    url: "https://deve.celticpaganism.org",
+    url: "https://devel.celticpaganism.org",
   },
 
   iconPrefix: "iconfont icon-",
