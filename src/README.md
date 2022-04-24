@@ -8,7 +8,7 @@ heroText: Openordú Blog
 tagline: A Song Upon A Spear
 heroFullScreen: true
 bgImage: /assets/dolmen-daniel-morris-6Y70GngCD60-unsplash.jpg
-bgStyle: 'no-repeat fixed center/cover'
+bgImageStyle: 'no-repeat fixed center/cover'
 projects:
   - icon: project
     name: project name
