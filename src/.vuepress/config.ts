@@ -17,8 +17,8 @@ export default defineHopeConfig({
   locales: {
     "/": {
       lang: "en-US",
-      title: "Theme Demo",
-      description: "A demo for vuepress-theme-hope",
+      title: "Celtic Paganism",
+      description: "An OpenSource Project.",
     },
   },
 
