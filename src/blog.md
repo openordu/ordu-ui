@@ -1,6 +1,6 @@
 ---
 home: false
-index: false
+article: false
 layout: Blog
 icon: home
 title: Blog Home
