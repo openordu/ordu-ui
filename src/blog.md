@@ -1,5 +1,6 @@
 ---
 home: false
+index: false
 layout: Blog
 icon: home
 title: Blog Home
