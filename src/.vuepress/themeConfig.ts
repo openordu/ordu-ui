@@ -92,10 +92,10 @@ export default defineThemeConfig({
        * Using giscus
        */
       type: "giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
+      repo: "openordu/cporg-comments",
+      repoId: "485203267",
       category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      categoryId: "37424412",
 
       /**
        * Using twikoo

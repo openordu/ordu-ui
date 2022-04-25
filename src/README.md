@@ -4,7 +4,7 @@ icon: home
 sidebar: false
 title: Home
 heroImage: /logo.svg
-heroText: Celtic Paganism
+heroText: Celtic Paganism Dotorg
 tagline: A display interface to Openordú.
 actions:
   - text: About 💡
@@ -12,6 +12,10 @@ actions:
 
   - text: Blog home 🏠
     link: /blog.md
+    type: secondary
+
+  - text: Project home 🏠
+    link: https://github.com/openordu/
     type: secondary
 
 features:
