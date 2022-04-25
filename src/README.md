@@ -65,14 +65,14 @@ features:
     details: All cultural intellectual properties contributed are open licenced.
     link: /guide/feature/
 
-  - title: Lorem Ipsum
+  - title: Glory to the Empire!
     icon: article
-    details: Lorem ipsum, hopscotch, tater tots.
+    details: Under license and git version control, credit for contributions are minutely preserved. Never have your work stolen.
     link: /guide/feature/
 
-  - title: Lorem Ipsum
-    icon: article
-    details: Lorem ipsum, hopscotch, tater tots.
+  - title: Reuse anything
+    icon: recycle
+    details: Under license, you can take and modify this work and use it in your coven or grove.
     link: /guide/feature/
 
 copyright: false
