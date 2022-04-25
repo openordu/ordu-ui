@@ -19,14 +19,39 @@ actions:
     type: secondary
 
 features:
-  - title: Markdown Interface
+  - title: Open License
+    icon: license
+    details: All cultural intellectual properties contributed are open licenced.
+    link: /guide/feature/
+
+  - title: Glory to the Empire!
+    icon: strong
+    details: Under license and git version control, credit for even small contributions are minutely preserved. Never have your work stolen.
+    link: /guide/feature/
+  
+  - title: Accurate information
+    icon: info
+    details: The open-source process is basically continual peer-review.
+    link: /guide/feature/page-info.html
+
+  - title: Reuse anything
+    icon: loop
+    details: Under license, you can make and distribute variations.
+    link: /guide/feature/
+
+  - title: Get Forked!
+    icon: git
+    details: Under license, you can take and modify this work and use it in your coven or grove. Go fork yourself a tradition.
+    link: /guide/feature/
+
+  - title: Markdown Content
     icon: markdown
-    details: Openordú and this site uses markdown, not html required. Html supported but discouraged.
+    details: Built upon markdown, the 'code' is lightwight and easier to write than html.
     link: /guide/markdown/
 
   - title: Slide pages
     icon: slides
-    details: Make workshop slides which the community owns.
+    details: Make workshop slides which the community owns and has access to.
     link: /guide/layout/slides
 
   - title: Easy layout
@@ -38,11 +63,6 @@ features:
     icon: comment
     details: Comments by git users tend to be of highter quality.
     link: /guide/feature/comment.html
-
-  - title: Accurate information
-    icon: info
-    details: Accurate at best, arguable at worst is the quality level we seek. No unthoughtout theories like potato goddesses.
-    link: /guide/feature/page-info.html
 
   - title: Blog updates
     icon: blog
@@ -61,23 +81,8 @@ features:
 
   - title: Full A11y support
     icon: support
-    details: Full support of accessibility
+    details: Full support of accessibility. This site is for everyone.
     link: /guide/interface/accessibility.html
-
-  - title: Open License
-    icon: license
-    details: All cultural intellectual properties contributed are open licenced.
-    link: /guide/feature/
-
-  - title: Glory to the Empire!
-    icon: article
-    details: Under license and git version control, credit for contributions are minutely preserved. Never have your work stolen.
-    link: /guide/feature/
-
-  - title: Reuse anything
-    icon: recycle
-    details: Under license, you can take and modify this work and use it in your coven or grove.
-    link: /guide/feature/
 
 copyright: false
 footer: CCASAIPL Licensed | Copyright © 2019-present Openordú
