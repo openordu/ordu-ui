@@ -4,7 +4,7 @@ export const en = defineNavbarConfig([
   "/",
   "/about.md",
   { text: "Guide", icon: "creative", link: "/guide/" },
-  { text: "Posts", icon: "edit", link: "/posts/" },
+  { text: "Posts", icon: "edit", link: "/blog.md" },
   {
     text: "Theme Docs",
     icon: "note",
