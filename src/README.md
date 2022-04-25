@@ -20,39 +20,39 @@ features:
     details: Openordú and this site uses markdown, not html required. Html supported but discouraged.
     link: /guide/markdown/
 
-  - title: Slide page
+  - title: Slide pages
     icon: slides
-    details: Adding slide pages to display things you like
+    details: Make workshop slides which the community owns.
     link: /guide/layout/slides
 
-  - title: Layout enhancement
+  - title: Mobile First
     icon: layout
-    details: Adding breadcrumb, footer, improved navbar, improved page nav and etc.
+    details: This site is a container that can run on any platform. Responsive for all devices.
     link: /guide/layout/
 
-  - title: Pageviews and comments
+  - title: Comments which don't suck
     icon: comment
-    details: Start pageview statistics and comment support with Waline
+    details: As a git project, we hope that's a sufficient barrier to reduce the number of idiots involved in contributions and comments.
     link: /guide/feature/comment.html
 
-  - title: Article information
+  - title: Accurate information
     icon: info
-    details: Add author, writing date, reading time, word count and other information to your article
+    details: Accurate at best, arguable at worst is the quality level we seek. No unthoughtout theories like potato goddesses.
     link: /guide/feature/page-info.html
 
-  - title: Blog support
+  - title: Blog updates
     icon: blog
-    details: Listing your articles with their dates, tags and categories with some awesome layouts
+    details: Keep up to date with the technical and social parts of the project.
     link: /guide/blog/
 
   - title: Custom theme color
     icon: palette
-    details: Supports custom theme colors and allows users to switch between preset theme colors
+    details: Accent the site your favorte color choice.
     link: /guide/interface/theme-color.html
 
   - title: Dark Mode
     icon: contrast
-    details: Switch between light and dark modes freely
+    details: Switch between light and dark modes
     link: /guide/interface/darkmode.html
 
   - title: Full A11y support
