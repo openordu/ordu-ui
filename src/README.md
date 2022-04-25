@@ -25,14 +25,14 @@ features:
     details: Make workshop slides which the community owns.
     link: /guide/layout/slides
 
-  - title: Mobile First
+  - title: Easy layout
     icon: layout
-    details: This site is a container that can run on any platform. Responsive for all devices.
+    details: Yet this site is built on the most cutting edge web technology.
     link: /guide/layout/
 
-  - title: Comments which don't suck
+  - title: Comments
     icon: comment
-    details: As a git project, we hope that's a sufficient barrier to reduce the number of idiots involved in contributions and comments.
+    details: Comments by git users tend to be of highter quality.
     link: /guide/feature/comment.html
 
   - title: Accurate information
@@ -45,9 +45,9 @@ features:
     details: Keep up to date with the technical and social parts of the project.
     link: /guide/blog/
 
-  - title: Custom theme color
+  - title: Custom accent colors
     icon: palette
-    details: Accent the site your favorte color choice.
+    details: Silly, we know, but choice matters. Accent the site your favorte color choice.
     link: /guide/interface/theme-color.html
 
   - title: Dark Mode
@@ -57,47 +57,22 @@ features:
 
   - title: Full A11y support
     icon: support
-    details: Full support of accessibility in your site
+    details: Full support of accessibility
     link: /guide/interface/accessibility.html
 
-  - title: Article Encryption
-    icon: lock
-    details: Encrypt you article based on path and folders, so that only the one you want could see them
-    link: /guide/feature/encrypt.html
+  - title: Open License
+    icon: license
+    details: All cultural intellectual properties contributed are open licenced.
+    link: /guide/feature/
 
-  - title: Copy button
-    icon: copy
-    details: Copy codes with one click in code blocks
-    link: /guide/feature/copy-code.html
+  - title: Lorem Ipsum
+    icon: article
+    details: Lorem ipsum, hopscotch, tater tots.
+    link: /guide/feature/
 
-  - title: Image preview
-    icon: pic
-    details: Support viewing, zooming, sharing your page images like a gallery
-    link: /guide/feature/photo-swipe.html
-
-  - title: SEO enhancement
-    icon: config
-    details: Optimize pages for search engines
-    link: /guide/advanced/seo.html
-
-  - title: Sitemap
-    icon: sitemap
-    details: Generate a Sitemap for your site
-    link: /guide/advanced/sitemap.html
-
-  - title: Feed support
-    icon: rss
-    details: Generate feed to allow users to subcribe it
-    link: /guide/advanced/feed.html
-
-  - title: PWA support
-    icon: mobile
-    details: Make your site more like an APP
-    link: /guide/advanced/pwa.html
-
-  - title: More new features
-    icon: more
-    details: Including icon support, fullscreen button, etc.
+  - title: Lorem Ipsum
+    icon: article
+    details: Lorem ipsum, hopscotch, tater tots.
     link: /guide/feature/
 
 copyright: false
