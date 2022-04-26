@@ -10,4 +10,6 @@ copyright:
 # Ignored
 ## Troubles
 
-I can run `yarn docs:dev` or `vuepress dev src` just fine, except when I add 3000 or so pages from topics. Webpack uses more memory than I have. Especially when I put all 3000 of those pages as links in a collapsible sidebar. Woops. I reduced my woes by switching to vuepress 2, vuepress-theme-hope2, and only having the volume titles(e.g. A, B, C, etc) in the sidebar. The browser tools performance, networking, and lighthouse tabs perform better now and within tolerable limits.
+I have been having issues with volume. It was taking 11 hours to build the static site using `nodejs` with the PCE files added. I was trying to make the sidebar contain all the pce elements thinking that'd make one tree for the app to traverse. Instead of that, what happens is the sidebar object is regenerated per page so when I told it to have 3000 elements on 3000 pages it took 11 hours. It was fixed by switching to alphabetical indexes in the sidebar instead of every item. The build went down to 30 minutes, went down by 10.5 hours.
+
+I was able to run `yarn docs:dev` or `vuepress dev src` just fine and load pages, so the problem wasn't obvious until deployment. I switched to vuepress2 a la vuepress-theme-hope2 because during previous builds webpack used more memory than I have, while the new version uses vite to render pages letting go of memory as it goes. Woops. The browser tools tabs `performance`, `networking`, and `lighthouse` perform better now and within tolerable limits.
