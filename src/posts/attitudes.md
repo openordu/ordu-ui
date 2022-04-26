@@ -15,4 +15,3 @@ copyright:
 1. pro respectful
 1. pro soft-Sapir-Whorfism
 1. pro diaspora
-1. 
