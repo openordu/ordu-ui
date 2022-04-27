@@ -81,3 +81,6 @@ node_modules
 .cache
 openordu-pce
 *.swp
+node_modules
+.temp
+.cache
