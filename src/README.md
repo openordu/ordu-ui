@@ -47,7 +47,7 @@ features:
   - title: Markdown Content
     icon: markdown
     details: Built upon markdown, the 'code' is lightwight and easier to write than html.
-    link: /docs/
+    link: /docs/formatting
 
   - title: Slide pages
     icon: slides

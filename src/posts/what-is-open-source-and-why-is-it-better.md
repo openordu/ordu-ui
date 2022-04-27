@@ -1,11 +1,11 @@
 ---
 author: Chris Godwin
 category: Culture
-title: What is OpenSource and Why is it Better
+title: What OpenSource? Why is it Better or Needed
 tag: vision
-time: 2022-01-01
+time: 2022-04-27
 copyright:
   minLength: 1
 ---
-content goes here
+# What is OpenSource? Why is it Better or Needed
 ## Testing
