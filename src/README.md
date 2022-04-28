@@ -7,14 +7,14 @@ heroImage: /logo.svg
 heroText: CelticPaganism.org
 tagline: A display interface to Openordú.
 actions:
-  - text: About 💡
+  - text: About :information_source:
     link: /about.md
 
-  - text: Blog home 🏠
-    link: /posts
+  - text: Blog home :memo:
+    link: /posts/
     type: secondary
 
-  - text: Project home 🏠
+  - text: Project home :seedling:
     link: https://github.com/openordu/
     type: secondary
 

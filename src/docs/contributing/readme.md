@@ -1,11 +1,10 @@
 ---
 showinsidebar: true
 icon: read
-title: 'Documentation'
+title: 'Contributing'
 tag:
-  - Introduction
+  - Contributing
   - Documentation
-footer: Footer content for test
 article: false
 autoSort: 100
 ---
@@ -26,9 +25,7 @@ This is a project called the **_[Openordú](https://www.github.com/openordu/)_**
 | praxes       | rites, customs, charms, prayers |
 
 ## Praxes
-The number one complaint from new celtic pagans regarding good books on CP is that people read them, they know how to form a worldview, they know what the ancestors who worshiped their gods believed; they can pick from those beliefs as if it were a menu from which to chose one's own belief system... but they still don't tell you what the hell to do. Especially when you're really feeling it and want to have some level of spontaneity.
-
-People aren't given a vocabulary of religious expressions outside of offerings or prayers, unique expressions they can pass on.
+Praxes 
 
 ## What Does Public Mean?
 Check out the [License](/license.md) to find out. There's a summary section.
@@ -39,5 +36,4 @@ Often it is good. But when we add to it, our changes get reverted by bots. There
 
 ## What About Mary
 
-[AKA Mary Jones](http://maryjones.us) is one of the greatest resources for Celtic pagans. We have permission from Mary to [contribute](/docs/contribute/
-) her work here. Some of the pronunciations and translations are off, and articles are now outdated. This is a way to remedy that and for that work to live on as the [PCE](/public-celtic-encyclopedia/).
+[AKA Mary Jones](http://maryjones.us) is one of the greatest resources for Celtic pagans. We have permission from Mary to Contribute her work here. Some of the pronunciations and translations are off, and articles are now outdated. This is a way to remedy that and for that work to live on as the [PCE](/public-celtic-encyclopedia/).
