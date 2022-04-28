@@ -14,7 +14,16 @@ autoSort: 100
 
 ## What is this Project?
 
-This is a project called the **_Public Celtic Encyclopedia(PCE)_**. It exists as a resource guide supporting the practice of Celtic Paganism. The Texts in the PCE are released under the [Celtic Culture Attribution Share Alike 4.0 International](/license.md). When we seeded the site, we used freely available text from Wikipedia.
+This is a project called the **_[Openordú](https://www.github.com/openordu/)_** which features a **_[Public Celtic Encyclopedia(PCE)](https://www.github.com/openordu/pce)_**. It exists as a resource guide supporting the practice of Celtic Paganism. The Texts in the PCE are released under the [Celtic Culture Attribution Share Alike 4.0 International](/license.md).
+
+### Project Parts
+| Repository   | Contains         |
+| ------------ | ---------------- |
+| ordu-ui      | Rendered Product |
+| pce          | Public Celtic Encyclopedia |
+| sacred-texts | Public domain translations of myth and folklore |
+| guides       | Study Programs |
+| praxes       | rites, customs, charms |
 
 ## What Does Public Mean?
 Check out the [License](/license.md) to find out. There's a summary section.
