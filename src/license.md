@@ -17,7 +17,7 @@ As a _public_ Project, you can:
 
 ::: warning
 
-If you **modify or distribute** it, you _must_:
+If you **modify or distribute** it outside of contributions, you _must_:
 
 - make the source code available freely
 - keep it under the same license,
