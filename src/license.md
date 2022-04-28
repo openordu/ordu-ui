@@ -34,7 +34,7 @@ Usage of this software does not grant you:
 
 - Any grounds claims of liability for the consequences of use this work.
 - Any patent rights, or any rights to original wording or style of the contributors.
-- Use of Trademarks owned by contributors, or trademarks of the original project: cporg.
+- Use of Trademarks owned by contributors, or trademarks of the original project: Openordú.
 - Any warranty or gaurentee over this work.
 :::
 
