@@ -4,6 +4,46 @@ icon: license
 title: Celtic Culture Attribution-ShareAlike 1.0 International Public License
 index: false
 ---
+# Celtic Culture Attribution-ShareAlike 1.0 International Public License
+## Summary
+::: tip
+As a _public_ Project, you can:
+- Use this work for commercial use. That is make money off of it.
+- You can distribute this work.
+- You can take it and modify it.
+- You can use it for private or personal use.
+- You can adopt this license for other projects outside of this one.
+:::
+
+::: warning
+
+If you **modify or distribute** it, you _must_:
+
+- make the source code available freely
+- keep it under the same license,
+ passing these same rights along to others
+- you must document your changes
+- you must retain the list in COPYRIGHT
+- you must add to that list
+
+:::
+
+::: danger
+
+Usage of this software does not grant you:
+
+- Any grounds claims of liability for the consequences of use this work.
+- Any patent rights, or any rights to original wording or style of the contributors.
+- Use of Trademarks owned by contributors, or trademarks of the original project: cporg.
+- Any warranty or gaurentee over this work.
+:::
+
+::: tip
+
+If you are simply contributing to the project here in our repository you generally do not have to worry about licensing, except knowing how your work will be used.
+
+:::
+## The License
 ```Celtic Culture Attribution-ShareAlike 1.0 International Public
 License
 

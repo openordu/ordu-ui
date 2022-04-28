@@ -14,45 +14,10 @@ autoSort: 100
 
 ## What is this Project?
 
-This is a project called the **_Public Celtic Encyclopedia(PCE)_**. It exists as a resource guide supporting the practice of Celtic Paganism. The Texts in the PCE are released under the [Creative Commons Attribution Share Alike 4.0 International](https://choosealicense.com/licenses/cc-by-sa-4.0/). When we seeded the site, we used freely available text from Wikipedia.
+This is a project called the **_Public Celtic Encyclopedia(PCE)_**. It exists as a resource guide supporting the practice of Celtic Paganism. The Texts in the PCE are released under the [Celtic Culture Attribution Share Alike 4.0 International](/license.md). When we seeded the site, we used freely available text from Wikipedia.
 
 ## What Does Public Mean?
-::: tip
-As a _public_ Project, you can:
-- Use this work for commercial use. That is make money off of it.
-- You can distribute this work.
-- You can take it and modify it.
-- You can use it for private or personal use.
-:::
-
-::: warning
-
-If you **modify or distribute** it, you _must_:
-
-- make the source code available freely
-- keep it under the same license,
- passing these same rights along to others
-- you must document your changes
-- you must retain the list in COPYRIGHT
-- you must add to that list
-
-:::
-
-::: danger
-
-Usage of this software does not grant you:
-
-- Any grounds claims of liability for the consequences of use this work.
-- Any patent rights, or any rights to original wording or style of the contributors.
-- Use of Trademarks owned by contributors, or trademarks of the original project: cporg.
-- Any warranty or gaurentee over this work.
-:::
-
-::: tip
-
-If you are simply contributing to the project here in our repository you do not have to wory about licensing.
-
-:::
+Check out the [License](/license.md) to find out. There's a summary section.
 
 ## Why isn't Wikipedia Good?
 
