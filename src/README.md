@@ -11,7 +11,7 @@ actions:
     link: /about.md
 
   - text: Blog home 🏠
-    link: /blog.md
+    link: /posts
     type: secondary
 
   - text: Project home 🏠

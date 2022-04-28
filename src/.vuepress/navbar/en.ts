@@ -4,10 +4,10 @@ export const en = defineNavbarConfig([
   "/",
   "/about.md",
   { text: "Guide", icon: "creative", link: "/guide/" },
-  { text: "Posts", icon: "edit", link: "/blog.md" },
+  { text: "Blog", icon: "edit", link: "/posts/" },
   {
-    text: "Theme Docs",
+    text: "Project Docs",
     icon: "note",
-    link: "https://vuepress-theme-hope.github.io/v2/",
+    link: "/docs/",
   },
 ]);
