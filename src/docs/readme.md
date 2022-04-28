@@ -34,4 +34,4 @@ Often it is good. But when we add to it, our changes get reverted by bots. There
 
 ## What About Mary
 
-[AKA Mary Jones](http://maryjones.us) is one of the greatest resources for Celtic pagans. Like Wikipedia, we can't add to it, but Jones's Celtic Encyclopedia(JCE) it has certainly inspired our [PCE](/public-celtic-encyclopedia/).
+[AKA Mary Jones](http://maryjones.us) is one of the greatest resources for Celtic pagans. We have permission from Mary to Contribute her work here. Some of the pronunciations and translations are off, and articles are now outdated. This is a way to remedy that and for that work to live on as the [PCE](/public-celtic-encyclopedia/).
