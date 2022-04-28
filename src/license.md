@@ -187,6 +187,10 @@ Section 2 -- Scope.
           with, or sponsored, endorsed, or granted official status by,
           the Licensor or others designated to receive attribution as
           provided in Section 3(a)(1)(A)(i).
+       
+       7. Source code. If you modify this work and distribute it, you
+          must make available the entire body Licensed Material and Adapted
+          Material as source code to the Public.
 
   b. Other rights.
 
