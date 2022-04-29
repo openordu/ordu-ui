@@ -54,15 +54,6 @@ resource guide supporting the practice of Celtic Paganism. The Texts in these
 repositories are released under the
 [Celtic Culture Attribution Share Alike 4.0 International](/license.md).
 
-### Project Parts
-| Repository   | Contains                                        |
-| ------------ | ----------------------------------------------- |
-| ordu-ui      | Rendered Product, this site                     |
-| pce          | Public Celtic Encyclopedia                      |
-| sacred-texts | Public domain translations of myth and folklore |
-| guides       | Study Programs                                  |
-| praxes       | rites, customs, charms, prayers                 |
-
 ## What Does Public Mean?
 Public means:
 1. Free to contribute
