@@ -3,8 +3,8 @@ icon: info
 article: false
 title: About
 ---
-# Ignored
+# About
 ## About this project
 
 
-Place your introducation and profile here.
+Place your information here.

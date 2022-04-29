@@ -21,7 +21,7 @@ actions:
 features:
   - title: Open License
     icon: license
-    details: All cultural intellectual properties contributed are open licenced.
+    details: All cultural intellectual properties contributed are open licensed.
     link: /license.md
 
   - title: Glory to the Empire!
@@ -32,7 +32,7 @@ features:
   - title: Accurate information
     icon: info
     details: The open-source process is basically continual peer-review.
-    link: /public-celtic-encyclopdedia/bibliography.md
+    link: /public-celtic-encyclopedia/bibliography.md
 
   - title: Reuse anything
     icon: loop
@@ -46,7 +46,7 @@ features:
 
   - title: Markdown Content
     icon: markdown
-    details: Built upon markdown, the 'code' is lightwight and easier to write than html.
+    details: Built upon markdown, the 'code' is lightweight and easier to write than html.
     link: /docs/formatting
 
   - title: Slide pages
@@ -61,7 +61,7 @@ features:
 
   - title: Comments
     icon: comment
-    details: Comments by git users tend to be of highter quality.
+    details: Comments by git users tend to be of highted quality.
 
   - title: Blog updates
     icon: blog
@@ -70,7 +70,7 @@ features:
 
   - title: Custom accent colors
     icon: palette
-    details: Silly, we know, but choice matters. Accent the site your favorte color choice.
+    details: Silly, we know, but choice matters. Accent the site your favorite color choice.
 
   - title: Dark Mode
     icon: contrast
@@ -88,4 +88,5 @@ This is an example of a normal homepage. You can place your main content here.
 
 To use this layout, you need to set `home: true` in the page front matter.
 
-For related descriptions of configuration items, please see [Project HomePage Layout Config](/guide/layout/home/).
+For related descriptions of configuration items, please see [Project HomePage
+Layout Config](/guide/layout/home/).

@@ -57,13 +57,13 @@ I've invested in this idea of a high liturgy within polytheist practice as
 ## The Solution
 
 Jane E. Harrison, a Greek Scholar, says **myth is what is '_said_' while ritual
- is what is '_done_'**, and [Cat Heath](https://seohelrune.com/) describes on
- her facebook account heathen spell-workings that involve doing a charm act
- while saying a folk-tale from which the magician has drawn an analogy directly
- to the outcome. Good spell outcomes are likened to the object won in myth, like
- Indra capturing Soma from the Ashuras, or releasing the rains after slaying
- Vtra. On either side of that is the act of you re-enacting the myth and
- reciting the myth.
+ is what is '_done_'**, and [Cat Heath](https://seohelrune.com/) posts
+ descriptions of heathen spell-workings to her facebook account all which
+ involve doing a charm act while saying or referencing parts of a folk-tale from
+ which the magician has drawn an analogy directly to the outcome. Good spell
+ outcomes are likened to the object won in myth, like Indra capturing Soma from
+ the Ashuras, or releasing the rains after slaying Vtra. On either side of that
+ is the act of you re-enacting the myth and reciting the myth.
 
 So this sense of a ritual order, the core of ADF's identity, that involves
  actions and invocations, and poetry and sometimes music, that opens, offers,
@@ -125,13 +125,13 @@ This Journal was the Druid's Progress that eventually became Oak Leaves. I
 
 What can we do? Well I don't think you can repair something this broken, you
  have to replace it. That's a lot of work that we have to be sure we are ready
- for before we set out to do it. With my track record of devoted time to my craft
- and public paganism, I don't see what else I would do. Being open-sourced, the
- site that displays this cultural project, can be moved by people within either
- the open-source community who edits it or the spiritual communities that form
- around it. We'll create a non-profit Organization, produce study open-sourced
- materials, guides, a public Celtic encyclopedia all free as in free beer and
- free as in freedom to use, modify, grow and claim.
+ for before we set out to do it. With my track record of devoted time to my
+ craft and public paganism, I don't see what else I would do. Being
+ open-sourced, the site that displays this cultural project, can be moved by
+ people within either the open-source community who edits it or the spiritual
+ communities that form around it. We'll create a non-profit Organization,
+ produce study open-sourced materials, guides, a public Celtic encyclopedia all
+ free as in free beer and free as in freedom to use, modify, grow and claim.
  
 Thanks to the research of the Rees Brothers, the people who produce Duchas.ie,
 James MacKillop, John T. Koch, John Carey, Barry Cunliffe, Patricia Monaghan,
