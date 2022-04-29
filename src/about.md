@@ -82,7 +82,7 @@ her work here. Some of the pronunciations and translations are off, and articles
 are now outdated. This is a way to remedy that and for that work to live on as
 the [PCE](/public-celtic-encyclopedia/).
 
-# Praxis focused
+## Praxis focused
 The number one complaint from new Celtic pagan is that they don't know what to
 do. Book give worldview and belief systems from which people put together their
 own set.... but they still lack on praxis and what to do. We want our project to
