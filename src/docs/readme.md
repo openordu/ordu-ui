@@ -1,7 +1,7 @@
 ---
 showinsidebar: true
 icon: read
-title: 'Documentation'
+title: 'Documentation Home'
 tag:
   - Introduction
   - Documentation
@@ -10,7 +10,7 @@ article: false
 autoSort: 100
 ---
 
-# Ignored
+# Documentation Home
 
 ## What is this Project?
 
@@ -18,28 +18,17 @@ This is a project called the **_[Openordú](https://www.github.com/openordu/)_**
 which features a **_[Public Celtic
 Encyclopedia(PCE)](https://www.github.com/openordu/pce)_**. It exists as a
 resource guide supporting the practice of Celtic Paganism. The Texts in these
-repositories are released under the [Celtic Culture Attribution Share Alike 4.0
-International](/license.md).
+repositories are released under the
+[Celtic Culture Attribution Share Alike 4.0 International](/license.md).
 
 ### Project Parts
-| Repository   | Contains         |
-| ------------ | ---------------- |
-| ordu-ui      | Rendered Product, this site |
-| pce          | Public Celtic Encyclopedia |
+| Repository   | Contains                                        |
+| ------------ | ----------------------------------------------- |
+| ordu-ui      | Rendered Product, this site                     |
+| pce          | Public Celtic Encyclopedia                      |
 | sacred-texts | Public domain translations of myth and folklore |
-| guides       | Study Programs |
-| praxes       | rites, customs, charms, prayers |
-
-## Praxes
-The number one complaint from new celtic pagans regarding good books on CP is
-that people read them, they know how to form a worldview, they know what the
-ancestors who worshiped their gods believed; they can pick from those beliefs as
-if it were a menu from which to chose one's own belief system... but they still
-don't tell you what the hell to do. Especially when you're really feeling it and
-want to have some level of spontaneity.
-
-People aren't given a vocabulary of religious expressions outside of offerings
-or prayers, unique expressions they can pass on.
+| guides       | Study Programs                                  |
+| praxes       | rites, customs, charms, prayers                 |
 
 ## What Does Public Mean?
 Public means:
