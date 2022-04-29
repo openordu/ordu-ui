@@ -42,6 +42,15 @@ People aren't given a vocabulary of religious expressions outside of offerings
 or prayers, unique expressions they can pass on.
 
 ## What Does Public Mean?
+Public means:
+1. Free to contribute
+1. Free to modify
+1. Free to fork distinct copies.
+1. Free to use
+1. Free to distribute
+1. Not free to change these restrictions in copies, distributions, uses,
+   modifications, or contributions.
+
 Check out the [License](/license.md) to find out. There's a summary section.
 
 ## Why isn't Wikipedia Good?
