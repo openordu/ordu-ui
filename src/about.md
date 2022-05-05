@@ -4,6 +4,15 @@ article: false
 title: About
 ---
 # About
+
+## What is this Project?
+
+This is a project called the "**_[Openordú](https://www.github.com/openordu/)_**
+Project" which features a **_[Public Celtic
+Encyclopedia(PCE)](https://www.github.com/openordu/pce)_**. It exists as a
+resource guide supporting the practice of Celtic Paganism. This project is released under the
+[Celtic Culture Attribution Share Alike 4.0 International](/license.md).
+
 ## About this project
 Our project's purpose is to produce a free software toolkit and text-base for a
 making a high-quality hyper-accessible website. The project's goals include
@@ -13,9 +22,9 @@ licenses those changes back to the community at large.
 
 Toward this goal, we are creating a collaborative space as a platform built on a
 community of individuals passionate about Celtic Paganism. We are inspired by
-Open Siddur which enables people in the Jewish community "to craft their own
-siddur, ...to use it as an educational tool, or for sharing prayers,
-translations, commentaries, art, and layout templates for new siddurim."
+[Open Siddur](http://opensiddur.org) which enables people in the Jewish
+community "to craft their own siddur, ...to use it as an educational tool, or
+for sharing prayers, translations, commentaries, art, and layout templates for new siddurim."
 
 Likewise Openordú will allow us to bring Celtic paganism and the culture which
 surrounds it into a version control system for sharing, education, commentary,
@@ -44,15 +53,6 @@ Comments and bug reports from anyone are welcome.
 Please join our discussion lists on [Facebook](www.facebook.com/groups/openordu/).
 
 You can also follow us on [Twitter](twitter.com/openordu).
-
-## What is this Project?
-
-This is a project called the **_[Openordú](https://www.github.com/openordu/)_**
-which features a **_[Public Celtic
-Encyclopedia(PCE)](https://www.github.com/openordu/pce)_**. It exists as a
-resource guide supporting the practice of Celtic Paganism. The Texts in these
-repositories are released under the
-[Celtic Culture Attribution Share Alike 4.0 International](/license.md).
 
 ## What Does Public Mean?
 Public means:
