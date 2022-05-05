@@ -7,11 +7,12 @@ title: About
 
 ## What is this Project?
 
-This is a project called the "**_[Openordú](https://www.github.com/openordu/)_**
-Project" which features a **_[Public Celtic
-Encyclopedia(PCE)](https://www.github.com/openordu/pce)_**. It exists as a
-resource guide supporting the practice of Celtic Paganism. This project is released under the
-[Celtic Culture Attribution Share Alike 4.0 International](/license.md).
+This is a project called the **_[OpenordúProject](https://www.github.com/openordu/)_** 
+which features a **_[Public Celtic Encyclopedia(PCE)](https://www.github.com/openordu/pce)_**.
+
+It exists as a resource guide supporting the practice of Celtic Paganism. This
+project is released under the [Celtic Culture Attribution Share Alike 4.0
+International](/license.md).
 
 ## About this project
 Our project's purpose is to produce a free software toolkit and text-base for a
@@ -24,7 +25,8 @@ Toward this goal, we are creating a collaborative space as a platform built on a
 community of individuals passionate about Celtic Paganism. We are inspired by
 [Open Siddur](http://opensiddur.org) which enables people in the Jewish
 community "to craft their own siddur, ...to use it as an educational tool, or
-for sharing prayers, translations, commentaries, art, and layout templates for new siddurim."
+for sharing prayers, translations, commentaries, art, and layout templates for
+new siddurim."
 
 Likewise Openordú will allow us to bring Celtic paganism and the culture which
 surrounds it into a version control system for sharing, education, commentary,
@@ -41,16 +43,17 @@ The technical portions of the project form three major parts:
 
 Source Texts: myths, stories, customs, prayers, praxis, charms, healing, rites,
 songs, dances, poetry Frontend: A body of UI which turns the Markdown into a
-website. Public Celtic Encyclopedia: A whack at a public form of Mary Jones's JCE
-Volunteer coders are always welcome. We are, in particular, looking for vuejs
-and vuepress user interface programmers.
+website. Public Celtic Encyclopedia: A whack at a public form of Mary Jones's
+JCE Volunteer coders are always welcome. We are, in particular, looking for
+vuejs and vuepress user interface programmers.
 
 This site serves as the project's code repository, code documentation, and issue
 tracker.
 
 Comments and bug reports from anyone are welcome.
 
-Please join our discussion lists on [Facebook](www.facebook.com/groups/openordu/).
+Please join our discussion lists on
+[Facebook](www.facebook.com/groups/openordu/).
 
 You can also follow us on [Twitter](twitter.com/openordu).
 
