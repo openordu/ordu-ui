@@ -12,7 +12,7 @@ which features a **_[Public Celtic Encyclopedia(PCE)](https://www.github.com/ope
 
 It exists as a resource guide supporting the practice of Celtic Paganism. This
 project is released under the [Celtic Culture Attribution Share Alike 4.0
-International](/docs/license.md).
+International](license.md).
 
 ## About this project
 Our project's purpose is to produce a free software toolkit and text-base for a
@@ -67,7 +67,7 @@ Public means:
 1. Not free to change these restrictions in copies, distributions, uses,
    modifications, or contributions.
 
-Check out the [License](/docs/license.md) to find out. There's a summary section.
+Check out the [License](license.md) to find out. There's a summary section.
 
 ## Why isn't Wikipedia Good?
 
