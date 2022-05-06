@@ -1,5 +1,5 @@
 ---
-title: Guide List
+title: Guides
 showinsidebar: true
 article: false
 icon: list

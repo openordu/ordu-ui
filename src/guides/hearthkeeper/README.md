@@ -1,5 +1,5 @@
 ---
-title: Hearthkeeper's Guide Index
+title: Hearthkeeper's Guide
 showinsidebar: true
 article: false
 prev: ../
