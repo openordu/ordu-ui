@@ -15,8 +15,7 @@ WORKDIR /app
 COPY . .
 
 # install project dependencies
-RUN yarn add vuepress-theme-hope@next; \
-    yarn add http-server; \
+RUN yarn add http-server; \
     yarn install
 
 RUN if [ "${WITHOUT_PCE}" = "true" ]; then rm -rf src/public-celtic-encyclopedia;fi  
