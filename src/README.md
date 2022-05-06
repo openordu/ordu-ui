@@ -2,6 +2,7 @@
 home: true
 icon: home
 sidebar: false
+index: false
 title: Home
 heroImage: /logo.svg
 heroText: CelticPaganism.org
