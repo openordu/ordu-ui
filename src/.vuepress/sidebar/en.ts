@@ -47,5 +47,11 @@ import { defineSidebarConfig } from "vuepress-theme-hope";
 //   ],
 // });
 export const en = defineSidebarConfig({
-  "/": "structure"
+  "/",
+  "about.md",
+  "/posts/": "structure",
+  "/guides/": "structure",
+  "/docs/": "structure",
+
+  
 });
