@@ -47,8 +47,9 @@ import { defineSidebarConfig } from "vuepress-theme-hope";
 //   ],
 // });
 export const en = defineSidebarConfig({
-  "/": [ "README", "about" ],
+  "/": [ "/", "about" ],
   "/posts/": "structure",
   "/guides/": "structure",
   "/docs/": "structure",
+  "/public-celtic-encyclopedia/": "structure",
 });
