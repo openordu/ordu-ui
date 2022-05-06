@@ -62,9 +62,11 @@ explain how primitive cultures think like children contrasting it with the
 rationality of distinguished scientists calling these beliefs "Savage Thought".
 Durkheim writes that Tylor was strongly influenced by the beliefs of children.
 
-::: tip Socrates was a rational animist in his polytheism. Since we though of
+::: tip 
+Socrates was a rational animist in his polytheism. Since we though of
 that 5 minutes into learning about Tylor, we conclude he didn't think too long
-about placing these beliefs with the rationality of children. :::
+about placing these beliefs with the rationality of children.
+:::
 
 Since his conclusions were drawn from 2nd hand accounts, we presume he had more
 access to analyzing modern children's belief in ghost-souls than he did
@@ -74,7 +76,8 @@ division as a framework within which the phenomena of Animism are interpreted by
 Tylor. This is probably the only view of his that remains as an original tenet
 of Animism that wasn't one of his biases.
 
-::: warning Modernist or Tylorian Animism holds that:
+::: warning
+Modernist or Tylorian Animism holds that:
 * there exists a thin-unsubstantial human image or ghost-soul that man projects
   onto parts of nature
 * these projections allow himself to understand nature by making parallels from
@@ -84,7 +87,8 @@ of Animism that wasn't one of his biases.
   how they emotionally regard them
 * humans see nature as human images because they base their worldview on
   themself rather than the world
-  * animists imbue all of the world with a nature analogous to his own :::
+  * animists imbue all of the world with a nature analogous to his own
+:::
 
 In Tylor's view, science was true and animism was delusional. The former
 correct, the latter, incorrect. Durkheim painted a more reasonable and less
@@ -95,9 +99,11 @@ is where our journey into Celtic paganism truely starts because its the first
 correct innovation in the study of a native people and their native place-based
 religions.
 
-::: tip Durkheim's 'tribal totem as mind' is expressed clearly in Celtic
+::: tip
+Durkheim's 'tribal totem as mind' is expressed clearly in Celtic
 paganism in the phrase 'fire in the head'. This expresses a fire or shining god
-as mind among people of arts. :::
+as mind among people of arts.
+:::
 
 Durkheim wrote that these totems were seen as kin with an entangled fate. He
 problematically argued that they mistook the common belief in the totemic force
@@ -113,7 +119,9 @@ perception malfunctions and we wrongly see inanimate objects as the threats
 we're looking for. This continues the Modernist view and double downs on how an
 animism is a form of biological-psychological error.
 
-::: danger Modernist animism is propaganda against indigenous people. :::
+::: danger
+Modernist animism is propaganda against indigenous people.
+:::
 
 Bird-David argues that is a weak position. Animism is the result of wild
 uncertainty and panic anxiety in a people extremely learned in local naturalism?
@@ -128,9 +136,12 @@ ability of anyone living with nature. This is where the state of the art rests,
 this is where western academia was near the end of the 20th century.  These
 beliefs aren't stupid, they're experiential.
 
-::: tip Alexei Kondratiev sees same dichotomy as a wild/tribe pair which we
+::: tip
+Alexei Kondratiev sees same dichotomy as a wild/tribe pair which we
 recognize in other pairs like the Adityas/Asuras, Aesir/Vanir,
-Olympian/Chthonian, Earthmen(Fir Domnan/Blog)/God-People(Tuatha Dé). :::
+Olympian/Chthonian, Earthmen(Fir Domnan/Blog)/God-People(Tuatha Dé).
+:::
+
 ## Actual Animism and Totemism
 ### Non-human Persons
 
@@ -143,8 +154,10 @@ sanskrit word for god *dev-. In their place, we consider the Celtic gods the
 Dewoi or Déithe, from dé(glimmer, smoke, puff), in these contexts for a full
 understanding.
 
-::: tip Sinéad Mattar compares Yeat' fairies with the Nayakan Devaru and
-concludes that Nayakan Animism parallels Yeats' persoanl Irish Animism. :::
+::: tip
+Sinéad Mattar compares Yeat' fairies with the Nayakan Devaru and
+concludes that Nayakan Animism parallels Yeats' persoanl Irish Animism.
+:::
 
 Irving Hallowell did fieldwork in Canada among the Ojibwa in the 1930s and wrote
 a paper about it in the 1960s. Among the Ojibwa, there is a sense of personhood
@@ -243,10 +256,12 @@ Profit to an Animist means an increase in relatedness. A meshing of all the
 networks of a place. The noble goals that the society elevate are that they all
 work toward this sharing and enmeshment. 
 
-::: tip We already operate like dividuals in different areas in our lives. For
+::: tip
+We already operate like dividuals in different areas in our lives. For
 instance, changing your opinion of a friend when you learn they treat the wait
 staff poorly. In Animistic personhood, people know one another as a collection
-of their relationships, as a collection of the ways we treat people. :::
+of their relationships, as a collection of the ways we treat people.
+:::
 
 Periodically they invite these non-human superpersons to share with and relate
 with and to them. Bird-David calls it a "composite personhood is constitutive of
@@ -350,5 +365,3 @@ yeats shows us them, 'operate withing the context of social practices.'"
 [^second]: (Hunter and Whittan 1976)
 [^third]: (Bird-David, 1999)
 [^fourth]: (Mines, 1944)
-
-fsn

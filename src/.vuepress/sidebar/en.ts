@@ -52,6 +52,4 @@ export const en = defineSidebarConfig({
   "/posts/": "structure",
   "/guides/": "structure",
   "/docs/": "structure",
-
-  
 });
