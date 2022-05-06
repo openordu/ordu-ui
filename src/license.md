@@ -2,7 +2,7 @@
 article: false
 icon: license
 title: Celtic Culture Attribution-ShareAlike 1.0 International Public License
-index: false
+index: 0
 ---
 # Celtic Culture Attribution-ShareAlike 1.0 International Public License
 ## Summary
