@@ -22,7 +22,7 @@ features:
   - title: Open License
     icon: license
     details: All cultural intellectual properties contributed are open licensed.
-    link: /license.md
+    link: /docs/license.md
 
   - title: Glory to the Empire!
     icon: strong

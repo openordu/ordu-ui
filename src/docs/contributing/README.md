@@ -13,7 +13,7 @@ autoSort: 100
 
 ## What is this Project?
 
-This is a project called the **_[Openordú](https://www.github.com/openordu/)_** which features a **_[Public Celtic Encyclopedia(PCE)](https://www.github.com/openordu/pce)_**. It exists as a resource guide supporting the practice of Celtic Paganism. The Texts in these repositories are released under the [Celtic Culture Attribution Share Alike 4.0 International](/license.md).
+This is a project called the **_[Openordú](https://www.github.com/openordu/)_** which features a **_[Public Celtic Encyclopedia(PCE)](https://www.github.com/openordu/pce)_**. It exists as a resource guide supporting the practice of Celtic Paganism. The Texts in these repositories are released under the [Celtic Culture Attribution Share Alike 4.0 International](/docs/license.md).
 
 ### Project Parts
 | Repository   | Contains         |
@@ -28,7 +28,7 @@ This is a project called the **_[Openordú](https://www.github.com/openordu/)_**
 Praxes 
 
 ## What Does Public Mean?
-Check out the [License](/license.md) to find out. There's a summary section.
+Check out the [License](/docs/license.md) to find out. There's a summary section.
 
 ## Why isn't Wikipedia Good?
 
