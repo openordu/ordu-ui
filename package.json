@@ -6,10 +6,10 @@
   "license": "CC-BY-SA-4.0",
   "dependencies": {
     "vuepress": "2.0.0-beta.38",
-    "vuepress-theme-hope": "2.0.0-beta.47"
+    "vuepress-theme-hope": "2.0.0-beta.50"
   },
   "scripts": {
-    "docs:dev": "./node_modules/.bin/vuepress dev src",
+    "docs:dev": "./node_modules/.bin/vuepress build src;http-server src/.vuepress/dist",
     "docs:build": "./node_modules/.bin/vuepress build src"
   }
 }
