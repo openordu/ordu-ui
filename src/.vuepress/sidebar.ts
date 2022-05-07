@@ -7,7 +7,7 @@ export default sidebar([
   // "/guides/": "structure",
   {
     icon: "creative",
-    text: "Guide",
+    text: "Docs",
     prefix: "/docs/",
     link: "/docs/",
     children: "structure",
