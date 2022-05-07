@@ -5,6 +5,12 @@ export default sidebar([
   "/about",
   // "/posts/": "structure",
   // "/guides/": "structure",
-  "/docs/": "structure",
+  {
+    icon: "creative",
+    text: "Guide",
+    prefix: "/docs/",
+    link: "/docs/",
+    children: "structure",
+  },
   // "/public-celtic-encyclopedia/": "structure",
 ]);
