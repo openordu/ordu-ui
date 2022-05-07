@@ -1,8 +1,8 @@
-import { defineThemeConfig } from "vuepress-theme-hope";
-import * as navbar from "./navbar";
-import * as sidebar from "./sidebar";
+import { hopeTheme } from "vuepress-theme-hope";
+import navbar from "./navbar";
+import sidebar from "./sidebar";
 
-export default defineThemeConfig({
+export default hopeTheme({
   hostname: "https://devel.celticpaganism.org",
 
   author: {

@@ -1,7 +1,11 @@
-import { defineHopeConfig } from "vuepress-theme-hope";
-import themeConfig from "./themeConfig";
+import { defineUserConfig } from "vuepress";
+import theme from "./theme";
 
-export default defineHopeConfig({
+export default defineUserConfig({
+  lang: "en-US",
+  title: "CelticPaganism.org",
+  description: "Openordú: An OpenSource Project.",
+
   base: "/",
 
   head: [
@@ -14,13 +18,5 @@ export default defineHopeConfig({
     ],
   ],
 
-  locales: {
-    "/": {
-      lang: "en-US",
-      title: "CelticPaganism.org",
-      description: "Openordú: An OpenSource Project.",
-    },
-  },
-
-  themeConfig,
+  theme,
 });
