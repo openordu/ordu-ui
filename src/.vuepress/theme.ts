@@ -18,6 +18,12 @@ export default hopeTheme({
 
   docsDir: "src",
 
+  // navbar
+  navbar: navbar,
+
+  // sidebar
+  sidebar: sidebar,
+
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
   blog: {
