@@ -5,6 +5,6 @@ export default sidebar([
   "/about",
   // "/posts/": "structure",
   // "/guides/": "structure",
-  // "/docs/": "structure",
+  "/docs/": "structure",
   // "/public-celtic-encyclopedia/": "structure",
 ]);
