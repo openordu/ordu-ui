@@ -6,12 +6,14 @@ index: 0
 ---
 # Celtic Culture Attribution-ShareAlike 1.0 International Public License
 ## Summary
-::: tip As a _public_ Project, you can:
+::: tip
+As a _public_ Project, you can:
 - Use this work for commercial use. That is make money off of it.
 - You can distribute this work.
 - You can take it and modify it.
 - You can use it for private or personal use.
-- You can adopt this license for other projects outside of this one. :::
+- You can adopt this license for other projects outside of this one.
+:::
 
 ::: warning
 
@@ -34,7 +36,8 @@ Usage of this software does not grant you:
   contributors.
 - Use of Trademarks owned by contributors, or trademarks of the original
   project: Openordú.
-- Any warranty or gaurentee over this work. :::
+- Any warranty or gaurentee over this work.
+:::
 
 ::: tip
 
