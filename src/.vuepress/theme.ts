@@ -19,14 +19,17 @@ export default hopeTheme({
   docsDir: "src",
 
   // navbar
-  navbar: navbar,
-
+  // navbar: navbar,
   // sidebar
-  sidebar: sidebar,
+  // sidebar: sidebar,
+  // footer: "Default footer",
+  // displayFooter: true,
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
   blog: {
+    description: "An Open Source Project",
+    intro: "/about.html",
     medias: {
       // Baidu: "https://example.com",
       // Bitbucket: "https://example.com",
@@ -63,10 +66,10 @@ export default hopeTheme({
   locales: {
     "/": {
       // navbar
-      navbar: navbar.en,
+      navbar: navbar,
 
       // sidebar
-      sidebar: sidebar.en,
+      sidebar: sidebar,
 
       footer: "Default footer",
 
