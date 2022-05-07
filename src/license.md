@@ -13,6 +13,9 @@ As a _public_ Project, you can:
 - You can take it and modify it.
 - You can use it for private or personal use.
 - You can adopt this license for other projects outside of this one.
+- If you are simply contributing to the project here in our repository you
+  generally do not have to worry about licensing, except knowing how your work
+  will be used.
 :::
 
 ::: warning
@@ -37,14 +40,6 @@ Usage of this software does not grant you:
 - Use of Trademarks owned by contributors, or trademarks of the original
   project: Openordú.
 - Any warranty or gaurentee over this work.
-:::
-
-::: tip
-
-If you are simply contributing to the project here in our repository you
-generally do not have to worry about licensing, except knowing how your work
-will be used.
-
 :::
 ## The License
 ```Celtic Culture Attribution-ShareAlike 1.0 International Public
