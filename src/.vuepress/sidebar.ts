@@ -11,7 +11,7 @@ export default sidebar([
   //   children: "structure",
   // },
   {
-    icon: "docs",
+    icon: "read",
     text: "Docs",
     prefix: "/docs/",
     link: "/docs/",
