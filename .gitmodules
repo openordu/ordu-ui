@@ -1,4 +1,15 @@
 [submodule "src/public-celtic-encyclopedia"]
 	path = src/public-celtic-encyclopedia
 	url = https://github.com/openordu/pce.git
-	branch = devel
+[submodule "src/posts"]
+	path = src/posts
+	url = https://github.com/openordu/ordu-blog.git
+[submodule "src/guides"]
+	path = src/guides
+	url = https://github.com/openordu/ordu-guides.git
+[submodule "src/sacred-texts"]
+	path = src/sacred-texts
+	url = https://github.com/openordu/sacred-texts.git
+[submodule "src/praxes"]
+	path = src/praxes
+	url = https://github.com/openordu/praxes.git
