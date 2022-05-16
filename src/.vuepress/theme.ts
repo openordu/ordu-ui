@@ -71,6 +71,7 @@ export default hopeTheme({
 
       // sidebar
       sidebar: sidebar,
+      editLink: false,
 
       footer: "Default footer",
 
