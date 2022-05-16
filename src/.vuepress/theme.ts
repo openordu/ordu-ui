@@ -17,6 +17,7 @@ export default hopeTheme({
   repo: "openordu/ordu-ui",
 
   docsDir: "src",
+  editLink: "false",
 
   // navbar
   // navbar: navbar,
