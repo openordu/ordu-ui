@@ -20,3 +20,6 @@ autoSort: 100
 1. Topic items in the [public-celtic-encyclopedia](https://github.com/openordu/pce)(PCE) repository must have `index:
    false` in the frontmatter to avoid build problems.
 1. PCE entries must have a prev and next frontmatter tag.
+1. If you are contributing multiple articles outside of the PCE that go in a
+   list, in addition to prev and next, consider using `index` to correctly
+   order them.
