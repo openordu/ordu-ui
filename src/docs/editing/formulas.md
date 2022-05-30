@@ -5,7 +5,7 @@ time: 2021-01-01
 copyright:
   minLength: 1
 title: Formulas
-icon: markdown
+icon: tex
 article: false
 showinsidebar: true
 index: 94

@@ -5,7 +5,7 @@ time: 2021-01-01
 copyright:
   minLength: 1
 title: Slides
-icon: markdown
+icon: slides
 article: false
 showinsidebar: true
 index: 93

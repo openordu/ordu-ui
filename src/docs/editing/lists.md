@@ -5,7 +5,7 @@ time: 2021-01-01
 copyright:
   minLength: 1
 title: Lists
-icon: markdown
+icon: list
 article: false
 showinsidebar: true
 index: 5

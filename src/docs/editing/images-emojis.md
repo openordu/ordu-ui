@@ -5,7 +5,7 @@ time: 2021-01-01
 copyright:
   minLength: 1
 title: Images & Emoji's
-icon: markdown
+icon: emoji
 article: false
 showinsidebar: true
 index: 6

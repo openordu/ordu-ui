@@ -5,7 +5,7 @@ time: 2021-01-01
 copyright:
   minLength: 1
 title: Charts & Graphs
-icon: markdown
+icon: diagram
 article: false
 showinsidebar: true
 index: 80

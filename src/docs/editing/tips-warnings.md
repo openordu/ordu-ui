@@ -5,7 +5,7 @@ time: 2021-01-01
 copyright:
   minLength: 1
 title: Tips & Warnings
-icon: markdown
+icon: creative
 article: false
 showinsidebar: true
 index: 95

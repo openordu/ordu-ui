@@ -5,7 +5,7 @@ time: 2021-01-01
 copyright:
   minLength: 1
 title: Text
-icon: markdown
+icon: superscript
 article: false
 showinsidebar: true
 index: 1

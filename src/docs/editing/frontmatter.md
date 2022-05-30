@@ -5,7 +5,7 @@ time: 2021-01-01
 copyright:
   minLength: 1
 title: Frontmatter
-icon: markdown
+icon: config
 article: false
 showinsidebar: true
 index: 7
