@@ -8,7 +8,7 @@ title: Headings
 icon: markdown
 article: false
 showinsidebar: true
-autoSort: 2
+index: 2
 ---
 
 # This First Heading

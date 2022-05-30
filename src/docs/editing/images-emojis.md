@@ -8,7 +8,7 @@ title: Images & Emoji's
 icon: markdown
 article: false
 showinsidebar: true
-autoSort: 6
+index: 6
 ---
 
 ## Image

@@ -8,7 +8,7 @@ title: Slides
 icon: markdown
 article: false
 showinsidebar: true
-autoSort: 93
+index: 93
 ---
 
 ## Slideshow

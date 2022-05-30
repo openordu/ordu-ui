@@ -8,7 +8,7 @@ title: Lists
 icon: markdown
 article: false
 showinsidebar: true
-autoSort: 5
+index: 5
 ---
 
 ## Lists

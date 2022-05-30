@@ -8,7 +8,7 @@ title: Text
 icon: markdown
 article: false
 showinsidebar: true
-autoSort: 1
+index: 1
 ---
 
 ## Text

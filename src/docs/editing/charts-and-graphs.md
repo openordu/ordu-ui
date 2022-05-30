@@ -8,7 +8,7 @@ title: Charts & Graphs
 icon: markdown
 article: false
 showinsidebar: true
-autoSort: 80
+index: 80
 ---
 
 ## Flowcharts & Pie Graphs

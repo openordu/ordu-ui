@@ -8,7 +8,7 @@ title: Tables
 icon: markdown
 article: false
 showinsidebar: true
-autoSort: 4
+index: 4
 ---
 
 ## Tables

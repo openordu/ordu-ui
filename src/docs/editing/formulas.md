@@ -8,7 +8,7 @@ title: Formulas
 icon: markdown
 article: false
 showinsidebar: true
-autoSort: 94
+index: 94
 ---
 
 ## Tex lang

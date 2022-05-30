@@ -8,5 +8,5 @@ title: Frontmatter
 icon: markdown
 article: false
 showinsidebar: true
-autoSort: 7
+index: 7
 ---
