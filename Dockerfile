@@ -6,7 +6,6 @@ ARG BUILDNO
 ENV BUILDNO=${BUILDNO}
 ENV NODE_ENV=production
 ENV NODE_OPTIONS=--openssl-legacy-provider
-ARG WITHOUT_PCE="true"
 
 # install simple http server for serving static content
 WORKDIR /app
@@ -18,7 +17,8 @@ COPY . .
 RUN yarn add http-server; \
     yarn install
 
-RUN if [ "${WITHOUT_PCE}" = "true" ]; then rm -rf src/public-celtic-encyclopedia;fi  
+# Remove files that end in '---` only
+RUN for file in `find ./ -type f -size -203`;do [ `tail -n1 $file | grep "\-\-\-" | wc -l` -eq 0 ] && rm -f $file;done
 
 # build app for production with minification
 RUN ./node_modules/.bin/vuepress build src
