@@ -13,7 +13,7 @@ autoSort: 95
 
 <!-- markdownlint-disable -->
 
-# For some reason this heading is ignored
+# Content DEMO
 # This First Heading
 
 <!-- markdownlint-restore -->

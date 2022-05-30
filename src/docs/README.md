@@ -20,3 +20,6 @@ autoSort: 100
 | `sacred-texts` | [sacred-texts](https://github.com/openordu/sacred-texts) | Public domain translations of myth and folklore |
 | `guides` | [ordu-guides](https://github.com/openordu/ordu-guides)       | Study Programs                                  |
 | `praxes` | [praxes](https://github.com/openordu/praxes)       | rites, customs, charms, prayers                 |
+
+## Editing
+## Contributing
