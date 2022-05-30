@@ -21,6 +21,10 @@ autoSort: 100
 | `guides` | [ordu-guides](https://github.com/openordu/ordu-guides)       | Study Programs                                  |
 | `praxes` | [praxes](https://github.com/openordu/praxes)       | rites, customs, charms, prayers                 |
 
+## Quickstart Guide
+Read the [Quickstart Guide](quickstart) in order to contextualize editing and
+contributing before reading the rest of the documentation.
+
 ## Editing & Contributing
 Check out the [Editing Guide](editing/README.md) to understand the formatting.
 Read our docs on [Contributing](contributing/README.me) for things like code of conduct, contribution

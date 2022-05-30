@@ -8,7 +8,7 @@ title: Editing
 icon: edit
 article: false
 showinsidebar: true
-index: 1
+index: 3
 ---
 
 # Editing

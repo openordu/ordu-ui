@@ -6,7 +6,7 @@ tag:
   - Contributing
   - Documentation
 article: false
-autoSort: 100
+index: 2
 ---
 
 # Contributing
