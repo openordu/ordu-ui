@@ -43,7 +43,7 @@ break
 
 ::: warning
 
-In block above, the word `at` is followed by two spaces.
+In block above, the word `line` is followed by two spaces.
 
 :::
 
