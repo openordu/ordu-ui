@@ -13,29 +13,29 @@ autoSort: 96
 ---
 ## Editing the Content
 
-All our content is in Enhanced Markdown. See the [Demo](/docs/demo) page. Again you can use the gitlab.com website to edit these things. Otherwise just edit these text files
+All our content is in Enhanced Markdown. See the [Editing guide](/docs/editing) page. Again you can use the gitlab.com website to edit these things. Otherwise just edit these text files
 with a text file editor, a markdown editor, or some other editor.
 
 ## Content Structure
 
 ```
-docs/         # These documentation files
-article/      # Blog, anyone can blog
-guide/hearth  # Hearthkeeper & Householders' Guide
-guide/witch   # Witches' Guide
-guide/seer    # Fiath's Guide
-guide/poet    # Poet's Guide
-guide/druid   # Druid's Guide
-pce/          # Public Celtic Encyclopedia
-ctexts/       # Texts from celt.ucc.ie
-school/       # Schools
-directory/    # Directory of Groups Practicing Celtic Paganism
+ordu-ui:src/docs/           # These documentation files
+ordu-blog:posts/            # Blog, anyone can blog
+ordu-guides:hearthkeeper/   # Hearthkeeper & Householders' Guide
+ordu-guides:witchcraft/     # Witches' Guide
+ordu-guides:seer/           # Fiath's Guide
+ordu-guides:poet/           # Poet's Guide
+ordu-guides:druid/          # Druid's Guide
+pce:*/                      # Public Celtic Encyclopedia
+sacred-texts:*/             # Texts from celt.ucc.ie
+praxes:*/                   # Practices, customs, prayers, rites, charms
+directory/                  # Directory of Groups Practicing Celtic Paganism
 ```
 # Creating new content
 
 ::: warning
 Markdown content is stored in .md files in directories in the project. Create one and automatically navigate to its path.
-To link it from another page, edit that page's markdown creating a [link](/docs/formatting/#link) to your new content.
+To link it from another page, edit that page's markdown creating a [link](/docs/editing/links.md) to your new content.
 :::
 
 # Formatting Content
@@ -88,6 +88,6 @@ Unordered list
 ## Heading2
 ### Heading3 and so forth
 :::
-To see the full docs on formatting, go to the [Content Demo](/docs/demo) page. This is
- just a demo. You can also visit a full [Markdown reference]() and a referenced to the
- [Enhanced Markdown Reference]() we use on this site.
+To see the full docs on formatting, go to the [Content Demo](/docs/editing) page. This is
+ just a demo. You can also visit a [Markdown introduction](https://vuepress-theme-hope.github.io/v2/guide/get-started/markdown.html#markdown-introduction) and a referenced to the
+ [Enhanced Markdown Demo](https://vuepress-theme-hope.github.io/v2/cookbook/markdown/demo.html) we use on this site.
