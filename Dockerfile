@@ -20,8 +20,7 @@ RUN yarn add http-server; \
 # Remove files that end in '---` only from all lists
 RUN for file in `find ./src/public-celtic-encyclopedia/ -type f -not -name \
     "README.md"`;do tail -n1 $file 2>/dev/null | grep "\-\-\-" >/dev/null \
-    && export filename=${file##*/};sed -e "/${filename}/d" -i ./src/ \
-    public-celtic-encyclopedia/${filename:0:1}.md || echo $file not empty;done
+    && export filename="${file##*/}";sed -e "/${filename}/d" -i "./src/public-celtic-encyclopedia/${filename:0:1}.md" || echo $file not empty;done
 
 # Remove files that end in '---` only
 RUN for file in `find ./src/public-celtic-encyclopedia/ -type f -not -name \
