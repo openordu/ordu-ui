@@ -16,6 +16,7 @@ export default sidebar([
     prefix: "/docs/",
     link: "/docs/",
     children: "structure",
+    collapsable: true,
   },
   {
     icon: "stack",
@@ -23,5 +24,6 @@ export default sidebar([
     prefix: "/public-celtic-encyclopedia/",
     link: "/public-celtic-encyclopedia/",
     children: "structure",
+    collapsable: true,
   },
 ]);
