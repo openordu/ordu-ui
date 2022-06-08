@@ -7,7 +7,7 @@ export default navbar([
   { text: "PCE", icon: "stack", link: "/public-celtic-encyclopedia/" },
   {
     text: "Project Docs",
-    icon: "note",
+    icon: "read",
     link: "/docs/",
   },
 ]);
