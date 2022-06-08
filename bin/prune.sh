@@ -9,5 +9,5 @@ done
 
 # Remove files that end in '---` only
 for file in `find ./src/public-celtic-encyclopedia/ -type f -not -name "README.md"`;do
-  tail -n1 $file 2>/dev/null | grep "\-\-\-" >/dev/null && echo rm -f $file || echo $file not empty
+  tail -n1 $file 2>/dev/null | grep "\-\-\-" >/dev/null && rm -f $file || echo $file not empty
 done
