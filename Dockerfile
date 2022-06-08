@@ -17,9 +17,15 @@ COPY . .
 RUN yarn add http-server; \
     yarn install
 
+# Remove files that end in '---` only from all lists
+RUN for file in `find ./src/public-celtic-encyclopedia/ -type f -not -name \
+    "README.md"`;do tail -n1 $file 2>/dev/null | grep "\-\-\-" >/dev/null \
+    && sed -e "/${file}/d" -i ./2.md -i ./a.md -i ./b.md -i ./c.md -i ./d.md -i ./e.md -i ./f.md -i ./g.md -i ./h.md -i ./i.md -i ./j.md -i ./k.md -i ./l.md -i ./m.md -i ./n.md -i ./o.md -i ./p.md -i ./q.md -i ./r.md -i ./s.md -i ./t.md -i ./u.md -i ./v.md -i ./w.md -i ./y.md -i ./z.md -i ./á.md -i ./é.md -i ./í.md -i ./ó.md -i ./ú.md -i ./README.md || echo $file not empty;done
+
 # Remove files that end in '---` only
-#RUN for file in `find ./src/public-celtic-encyclopedia/ -type f -size -203`;do [ `tail -n1 $file | grep "\-\-\-" | wc -l` -eq 0 ] && rm -f $file;done
-RUN for file in `find ./src/public-celtic-encyclopedia/ -type f -not -name "README.md"`;do tail -n1 $file 2>/dev/null | grep "\-\-\-" >/dev/null && rm -f $file || echo $file not empty;done
+RUN for file in `find ./src/public-celtic-encyclopedia/ -type f -not -name \
+    "README.md"`;do tail -n1 $file 2>/dev/null | grep "\-\-\-" >/dev/null \
+    && rm -f $file || echo $file not empty;done
 
 # build app for production with minification
 RUN ./node_modules/.bin/vuepress build src
