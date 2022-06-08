@@ -17,5 +17,11 @@ export default sidebar([
     link: "/docs/",
     children: "structure",
   },
-  "/public-celtic-encyclopedia/": "structure",
+  {
+    icon: "stack",
+    text: "PCE",
+    prefix: "/public-celtic-encyclopedia/",
+    link: "/public-celtic-encyclopedia/",
+    children: "structure",
+  },
 ]);
