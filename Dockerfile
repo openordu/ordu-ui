@@ -20,11 +20,6 @@ RUN yarn add http-server; \
 # Remove files that end in '---` only and remove them from lists
 RUN chmod 755 ./bin/prune.sh;./bin/prune.sh
 
-# Remove files that end in '---` only
-RUN for file in `find ./src/public-celtic-encyclopedia/ -type f -not -name \
-    "README.md"`;do tail -n1 $file 2>/dev/null | grep "\-\-\-" >/dev/null \
-    && rm -f $file || echo $file not empty;done
-
 # build app for production with minification
 RUN ./node_modules/.bin/vuepress build src
 
