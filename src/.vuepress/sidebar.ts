@@ -17,5 +17,5 @@ export default sidebar([
     link: "/docs/",
     children: "structure",
   },
-  // "/public-celtic-encyclopedia/": "structure",
+  "/public-celtic-encyclopedia/": "structure",
 ]);
