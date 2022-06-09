@@ -57,12 +57,12 @@ features:
 
   - title: Easy layout
     icon: layout
-    details: Yet this site is built on the most cutting edge web technology.
+    details: Yes this site is built on the most cutting edge web technology.
     link: /docs/
 
   - title: Comments
     icon: comment
-    details: Comments by git users tend to be of highted quality.
+    details: Comments by git users tend to be of heightened quality.
 
   - title: Blog updates
     icon: blog
@@ -79,7 +79,7 @@ features:
 
   - title: Full A11y support
     icon: support
-    details: Full support of accessibility. This site is for everyone.
+    details: Full support for accessibility. This site is for everyone.
 
 copyright: false
 footer: CCASAIPL Licensed | Copyright © 2019-present Openordú
