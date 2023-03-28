@@ -3,11 +3,11 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   "/",
   "/about",
-  // { text: "Guides", icon: "creative", link: "/guides/" },
   { text: "Blog", icon: "edit", link: "/posts/" },
+  { text: "PCE", icon: "stack", link: "/public-celtic-encyclopedia/" },
   {
     text: "Project Docs",
-    icon: "note",
+    icon: "read",
     link: "/docs/",
   },
 ]);

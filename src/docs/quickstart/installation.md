@@ -9,25 +9,29 @@ index: 99
 article: false
 ---
 
-## Installation
-
-This is the documentation portal for the project. Read the entire documentation section before asking any questions about contributing.
+# Git Installation
 
 ## Everything is Done with `git`
 
-If you are a user of linux, we'll assume you know how to use the basic git commands:
+If you are a user of linux, we'll assume you know how to use the basic git
+commands.
 
-* `git clone https://path/to/repo`
+## How to make a change
+
+These are the direct commands in order to pull the project down, to edit it, and
+to send a change back up to the project in *your own branch*:
+
+* `git clone https://github.com/openordu/pce`
 * `git checkout -b feature/my-branch-name`
-* edit `guide/path/to/guide.md` with a text editor or run
-* `nano -w guide/path/to/guide.md`
-* `git add guide/path/to/guide.md`
-* `git commit -m 'summarize the change in a short sentance'`
+*  edit `pce/a/abarta.md` with a text editor or run
+* `nano -w pce/a/abarta.md`
+* `git add pce/a/abarta.md`
+* `git commit -m 'edited pce/a/abarta.md'`
 * `git push`
 
 If you are not familiar with git, you must learn to interact with this project.
 
-The [Process](/article/myidea/#the-process) itself is a graphical representation of `git` commands and interactions with repo [website](/).
+The [Process](/docs/contributing/process.md) itself is a graphical representation of `git` commands and interactions with repo [website](/).
 
 Everything happens via `git` except for the discussion, approval, and merge.
 
@@ -85,6 +89,6 @@ Result:
 
 > git version 2.34.1.windows.1
 
-## Use gitlab.com
+## Or Just Use github
 
-As an alternative you can use the website based editor which is a graphical git client over at the [Gitlab Project](https://gitlab.com/path/to/project)
+As an alternative you can use the website based editor which is a graphical git client over at the [Github Project](https://gitlab.com/openordu/)

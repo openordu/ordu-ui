@@ -17,8 +17,8 @@ COPY . .
 RUN yarn add http-server; \
     yarn install
 
-# Remove files that end in '---` only
-RUN for file in `find ./src/public-celtic-encyclopedia/ -type f -size -203`;do [ `tail -n1 $file | grep "\-\-\-" | wc -l` -eq 0 ] && rm -f $file;done
+# Remove files that end in '---` only and remove them from lists
+RUN chmod 755 ./bin/prune.sh;./bin/prune.sh
 
 # build app for production with minification
 RUN ./node_modules/.bin/vuepress build src

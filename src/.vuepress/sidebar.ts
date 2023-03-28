@@ -16,6 +16,14 @@ export default sidebar([
     prefix: "/docs/",
     link: "/docs/",
     children: "structure",
+    collapsable: true,
   },
-  // "/public-celtic-encyclopedia/": "structure",
+  {
+    icon: "stack",
+    text: "PCE",
+    prefix: "/public-celtic-encyclopedia/",
+    link: "/public-celtic-encyclopedia/",
+    children: "structure",
+    collapsable: true,
+  },
 ]);

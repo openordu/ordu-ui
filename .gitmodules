@@ -1,7 +1,7 @@
 [submodule "src/public-celtic-encyclopedia"]
 	path = src/public-celtic-encyclopedia
 	url = https://github.com/openordu/pce.git
-        branch = main
+        branch = devel
 [submodule "src/posts"]
 	path = src/posts
 	url = https://github.com/openordu/ordu-blog.git

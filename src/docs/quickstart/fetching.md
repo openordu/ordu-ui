@@ -18,15 +18,11 @@ autoSort: 98
 
 Depending on how you installed git, Open bash or git-bash, or powershell.
 
-Run `pwd` to see where you are on the file system.
+Run `pwd` to see where you are on the file system so you can find it in a file explorer.
 
-Run `git clone https://github.com/openordu/pce.git path/to/working_folder`
+Run `git clone https://github.com/openordu/pce.git pce`
 
-Now your working folder will be located at whatever you typed instead of
- `path/to/working_folder` inside of `pwd`. If `pwd` reports 
- `D:\Users\Chris Godwin\Documents\`, and you cloned into `cporg-articles`,
-  then you can go edit these files by opening your file browser and pasting D:\Users\Chris Godwin\Documents\cporg-articles into the address bar to find
-  them.
+Now your working folder will be located at `pce` inside of the current folder.
 
 ## Branching
 In order to add content, you must do it in your own `branch` where your
