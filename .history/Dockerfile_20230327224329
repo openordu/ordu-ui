@@ -15,7 +15,7 @@ COPY . .
 
 RUN apt-get update -y && apt-get install git -y
 
-RUN ./bin/sync.sh
+
 
 # install project dependencies
 RUN yarn add http-server; \
